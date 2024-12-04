@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="equation-solve-package">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/equation_solve_package_jar/equation-solve-package.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
